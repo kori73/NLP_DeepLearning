@@ -7,3 +7,4 @@ Video lectures are available on [youtube](https://www.youtube.com/watch?v=OQQ-W_
 
 Assignment 1: Loading a pre-trained word2vec model, dimension reduction with SVD and word2vec visualization.
 Assignment 2: Applying skipgram model with Naive softmax and negative sampling loss functions. Gradient calculations of each loss function. 
+See the pdf in assignment2 folder for detailed instructions.
